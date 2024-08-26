@@ -1,7 +1,8 @@
 ## Hi there 👋
 ---
 ## 논문 리뷰 정리
-1. [1. Low-Overhead-General-Purpose-NDP-CXL-Mem-Expander](https://junhyeongs.notion.site/Low-Overhead-General-Purpose-NDP-CXL-Mem-Expander-2ff1fc60c9ae4a3189789d8f69faf19e)
+1. [Low-Overhead-General-Purpose-NDP-CXL-Mem-Expander](https://junhyeongs.notion.site/Low-Overhead-General-Purpose-NDP-CXL-Mem-Expander-2ff1fc60c9ae4a3189789d8f69faf19e)
+2. [ONNXim: A Fast, Cycle-level Multi-core NPU Simulator](https://junhyeongs.notion.site/ONNXim-A-Fast-Cycle-level-Multi-core-NPU-Simulator-bcf3ac65419a452e9acad560ff71bf39?pvs=25)
 ---
 
 
