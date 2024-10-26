@@ -1,7 +1,7 @@
 ## Hi there 👋
 1. 2021-05-31 ~ 2022-11-30 : ARMY
-2. 2019 ~ 2024 : SSU CSE
-3. 2025 ~ 2027?: POSTECH CSE
+2. 2019 ~ 2024 : SSU CSE B.S
+3. 2025 ~ 2027?: POSTECH CSE M.S
    
 ---
 ## Paper Reviews..
