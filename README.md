@@ -17,7 +17,7 @@
 ---
 ## Algorithmd Study
 1. [BOJ-Solved](https://github.com/20190511/AlgorithmTraining)
-2. [Code-Tree & Programmers](http://github.com/20190511?tab=repositories)
+2. [Code-Tree & Programmers](https://github.com/20190511/codetree-TILs)
 
 
 <!--
