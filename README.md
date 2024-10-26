@@ -1,4 +1,8 @@
 ## Hi there 👋
+1. 2021-05-31 ~ 2022-11-30 : ARMY
+2. 2019 ~ 2024 : SSU CSE
+3. 2025 ~ 2027?: POSTECH CSE
+   
 ---
 ## Paper Reviews..
 1. [Continual Test-Time Domain Adaptation](https://junhyeongs.notion.site/CoTTA-24-02-02-24-02-05-ff40b0f22f044c2897268c77ad435b8a)
