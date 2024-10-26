@@ -14,6 +14,12 @@
 ## Easy, But Important OS Project ...
 1. [2022 ~ 2024](https://github.com/20190511/OS_xv6)
 
+---
+## Algorithmd Study
+1. [BOJ-Solved](https://github.com/20190511/AlgorithmTraining)
+2. [Code-Tree & Programmers](http://github.com/20190511?tab=repositories)
+
+
 <!--
 **20190511/20190511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently Searching and Learning on HW-SW Co-Optimizaing Technic
