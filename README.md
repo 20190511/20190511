@@ -1,5 +1,7 @@
 ## Hi there 👋
 1. 2021-05-31 ~ 2022-11-30 : ARMY
+2. 2019-03 ~ 2024-12 : SSU B.S
+3. 2025-02 ~   : POSTECH M.S
    
 ---
 ## Paper Reviews..
